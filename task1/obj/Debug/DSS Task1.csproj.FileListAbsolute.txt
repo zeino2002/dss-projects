@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\New folder (2)\project for dss\bin\Debug\carRental.exe.config
+C:\Users\User\Desktop\New folder (2)\project for dss\bin\Debug\carRental.exe
+C:\Users\User\Desktop\New folder (2)\project for dss\bin\Debug\carRental.pdb
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\DSS Task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.equally.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.Form1.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.maximin.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.maxmaxuc.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.MinimaxRegret.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\DSS Task1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\DSS Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.exe
+C:\Users\User\Desktop\New folder (2)\project for dss\obj\Debug\carRental.pdb
+C:\Users\User\Desktop\DSS\task1\bin\Debug\carRental.exe.config
+C:\Users\User\Desktop\DSS\task1\bin\Debug\carRental.exe
+C:\Users\User\Desktop\DSS\task1\bin\Debug\carRental.pdb
+C:\Users\User\Desktop\DSS\task1\obj\Debug\DSS Task1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.equally.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.Form1.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.maximin.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.maxmaxuc.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.MinimaxRegret.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.Properties.Resources.resources
+C:\Users\User\Desktop\DSS\task1\obj\Debug\DSS Task1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DSS\task1\obj\Debug\DSS Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.exe
+C:\Users\User\Desktop\DSS\task1\obj\Debug\carRental.pdb

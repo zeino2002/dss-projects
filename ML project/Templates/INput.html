@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Heart Disease</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css.css') }}" />
+  </head>
+  <body>
+    <div class="container"></div>
+    <div class="con"></div>
+    <div class="login-box">
+      <p>Input</p>
+      <form action="{{ url_for('predict')}}" method="POST">
+        <div class="user-box">
+          <input  name="Male" type="text" />
+          <label>Male</label>
+        </div>
+        <div class="user-box">
+          <input  name="age" type="text" />
+          <label>Age</label>
+        </div>
+        <div class="user-box">
+          <input  name="education" type="text" />
+          <label>Education</label>
+        </div>
+        <div class="user-box">
+          <input  name="current" type="text" />
+          <label>Current smoker</label>
+        </div>
+        <div class="user-box">
+          <input  name="cigs" type="text" />
+          <label>Cigs Per Day</label>
+        </div>
+        <div class="user-box">
+          <input  name="bp" type="text" />
+          <label>BPMeds</label>
+        </div>
+        <div class="user-box">
+          <input  name="st" type="text" />
+          <label>Prevalent Stroke</label>
+        </div>
+        <div class="user-box">
+          <input  name="Hyb" type="text" />
+          <label>prevalentHyp</label>
+        </div>
+        <div class="user-box">
+          <input  name="d" type="text" />
+          <label>Diabetes</label>
+        </div>
+        <div class="user-box">
+          <input  name="tot" type="text" />
+          <label>TotChol</label>
+        </div>
+        <div class="user-box">
+          <input  name="sys" type="text" />
+          <label>sysBP</label>
+        </div>
+        <div class="user-box">
+          <input  name="diaBp" type="text" />
+          <label>diaBP</label>
+        </div>
+        <div class="user-box">
+          <input  name="bmi" type="text" />
+          <label>BMI</label>
+        </div>
+        <div class="user-box">
+          <input  name="hr" type="text" />
+          <label>Heart Rate</label>
+        </div>
+        <div class="user-box">
+          <input required="" name="glucose" type="text" />
+          <label>Glucose</label>
+        </div>
+        <input type="submit" class="btn-info" value="predict">
+      </form>
+    </div>
+  </body>
+</html>
